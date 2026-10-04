@@ -3,3 +3,14 @@
 
 *While I’m sleeping, you can see my work.*
 ### Enjoy your viewing
+
+
+<p align="center">
+  <b>You can contact me here</b>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/683665596633841772">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
